@@ -1,0 +1,12 @@
+Karl            	89		  
+Lucy	          	78		   
+Tom		  	        39		  
+Jonathan            83		   
+John              	8		   
+Mary             	28		   
+Rachel             	74
+Jacob             	64		    
+Joseph             	49	  	   
+Mark            	92		   
+Sophie            	62		   
+David		        18
